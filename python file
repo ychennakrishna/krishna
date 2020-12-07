@@ -4,3 +4,7 @@ sum = a+b
 print(sum)
 
 print(a+b)
+
+print('chnna krishna reddy')
+print("krishna reddy")
+print("reddy yerram")
